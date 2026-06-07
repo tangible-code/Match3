@@ -5,3 +5,5 @@
 * Batch Renderer to draw thousands of quads in single draw call
 * Audio System using OpenAL
 * Custom API Code for animation
+
+Made during my first year
